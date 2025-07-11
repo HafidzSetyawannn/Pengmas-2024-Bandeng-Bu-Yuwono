@@ -20,9 +20,9 @@ Dengan sistem ini, diharapkan UMKM mitra dapat **mengelola bisnis secara lebih e
 - 🔐 Sistem login pengguna
 - 🛒 Halaman produk dan keranjang belanja
 - 📦 Checkout dan konfirmasi pemesanan
-- 📋 Manajemen pesanan untuk admin
+- 📋 Manajemen pesanan untuk Admin
 - 💳 Integrasi pembayaran via Midtrans
-- 🛠️ CRUD produk dan kategori (admin)
+- 🛠️ CRUD produk dan kategori (Admin)
 
 ---
 
@@ -37,20 +37,7 @@ Dengan sistem ini, diharapkan UMKM mitra dapat **mengelola bisnis secara lebih e
 ---
 
 ## 📷 Screenshot
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a575952-fc54-4e08-aa4a-c49411cb68eb" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20ce23f7-58e0-4401-826f-87435194c2e5" />
-
-
-
-```bash
-# Contoh struktur folder
-/
-├── admin/
-├── css/
-├── js/
-├── images/
-├── produk/
-├── uploads/
-├── index.php
-├── dbconnect.php
-└── ...
