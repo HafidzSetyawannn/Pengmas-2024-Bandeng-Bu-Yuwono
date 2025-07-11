@@ -38,6 +38,11 @@ Dengan sistem ini, diharapkan UMKM mitra dapat **mengelola bisnis secara lebih e
 
 ## 📷 Screenshot
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a575952-fc54-4e08-aa4a-c49411cb68eb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa5de518-aca6-4b30-8f21-bc5b1038ac03" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20ce23f7-58e0-4401-826f-87435194c2e5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ec2b661-2aa8-4445-8365-03e4c8327647" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c0d3fe0-51ff-4674-b941-5c9d39b9f055" />
+
+
+
